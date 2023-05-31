@@ -11,9 +11,9 @@ context('Basic', () => {
       .should('exist')
 
     cy.get('#input')
-      .type('Vitesse{Enter}')
+      .type('gradient-background{Enter}')
       .url()
-      .should('eq', 'http://localhost:3333/hi/Vitesse')
+      .should('eq', 'http://localhost:3333/hi/gradient-background')
 
     cy.contains('[Default Layout]')
       .should('exist')

@@ -8,14 +8,14 @@ title: About
   <h3>About</h3>
 </div>
 
-[Vitesse](https://github.com/Jeffrey-mu/vitesse) is an opinionated [Vite](https://github.com/vitejs/vite) starter template made by [@antfu](https://github.com/antfu) for mocking apps swiftly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
+[gradient-background](https://github.com/Jeffrey-mu/gradient-background) is an opinionated [Vite](https://github.com/vitejs/vite) starter template made by [@antfu](https://github.com/antfu) for mocking apps swiftly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
 
 ```js
 // syntax highlighting example
-function vitesse() {
+function gradient-background() {
   const foo = 'bar'
   console.log(foo)
 }
 ```
 
-Check out the [GitHub repo](https://github.com/Jeffrey-mu/vitesse) for more details.
+Check out the [GitHub repo](https://github.com/Jeffrey-mu/gradient-background) for more details.

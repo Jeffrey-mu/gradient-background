@@ -1,21 +1,21 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/154486817-f86b8f20-5463-4122-b6e9-930622e757f2.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
+  <img src='https://user-images.githubusercontent.com/11247099/154486817-f86b8f20-5463-4122-b6e9-930622e757f2.png' alt='gradient-background - Opinionated Vite Starter Template' width='600'/>
 </p>
 
 <p align='center'>
-Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
-</p>
-
-<br>
-
-<p align='center'>
-<a href="https://vitesse.netlify.app/">Live Demo</a>
+Mocking up web app with <b>gradient-background</b><sup><em>(speed)</em></sup><br>
 </p>
 
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/Jeffrey-mu/vitesse/blob/main/README.zh-CN.md">简体中文</a>
+<a href="https://gradient-background.netlify.app/">Live Demo</a>
+</p>
+
+<br>
+
+<p align='center'>
+<b>English</b> | <a href="https://github.com/Jeffrey-mu/gradient-background/blob/main/README.zh-CN.md">简体中文</a>
 <!-- Contributors: Thanks for geting interested, however we DON'T accept new transitions to the README, thanks. -->
 </p>
 
@@ -119,38 +119,38 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ###### Official
 
-- [vitesse-lite](https://github.com/Jeffrey-mu/vitesse-lite) - Lightweight version of Vitesse
-- [vitesse-nuxt3](https://github.com/Jeffrey-mu/vitesse-nuxt3) - Vitesse for Nuxt 3
-- [vitesse-nuxt-bridge](https://github.com/Jeffrey-mu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
-- [vitesse-webext](https://github.com/Jeffrey-mu/vitesse-webext) - WebExtension Vite starter template
+- [gradient-background-lite](https://github.com/Jeffrey-mu/gradient-background-lite) - Lightweight version of gradient-background
+- [gradient-background-nuxt3](https://github.com/Jeffrey-mu/gradient-background-nuxt3) - gradient-background for Nuxt 3
+- [gradient-background-nuxt-bridge](https://github.com/Jeffrey-mu/gradient-background-nuxt-bridge) - gradient-background for Nuxt 2 with Bridge
+- [gradient-background-webext](https://github.com/Jeffrey-mu/gradient-background-webext) - WebExtension Vite starter template
 
 ###### Community
 
-- [vitesse-ssr-template](https://github.com/frandiox/vitesse-ssr-template) by [@frandiox](https://github.com/frandiox) - Vitesse with SSR
-- [vitespa](https://github.com/ctholho/vitespa) by [@ctholho](https://github.com/ctholho) - Like Vitesse but without SSG/SSR
-- [vitailse](https://github.com/zynth17/vitailse) by [@zynth17](https://github.com/zynth17) - Like Vitesse but with TailwindCSS
-- [vitesse-modernized-chrome-ext](https://github.com/xiaoluoboding/vitesse-modernized-chrome-ext) by [@xiaoluoboding](https://github.com/xiaoluoboding) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
-- [vitesse-stackter-clean-architect](https://github.com/shamscorner/vitesse-stackter-clean-architect) by [@shamscorner](https://github.com/shamscorner) - A modular clean architecture pattern in vitesse template
-- [vitesse-enterprise](https://github.com/FranciscoKloganB/vitesse-enterprise) by [@FranciscoKloganB](https://github.com/FranciscoKloganB) - Consistent coding styles regardless of team-size.
-- [vitecamp](https://github.com/nekobc1998923/vitecamp) by [@nekobc1998923](https://github.com/nekobc1998923) - Like Vitesse but without SSG/SSR/File based routing, includes Element Plus
-- [vitesse-lite-react](https://github.com/lxy-yz/vitesse-lite-react) by [@lxy-yz](https://github.com/lxy-yz) - vitesse-lite React fork
+- [gradient-background-ssr-template](https://github.com/frandiox/gradient-background-ssr-template) by [@frandiox](https://github.com/frandiox) - gradient-background with SSR
+- [vitespa](https://github.com/ctholho/vitespa) by [@ctholho](https://github.com/ctholho) - Like gradient-background but without SSG/SSR
+- [vitailse](https://github.com/zynth17/vitailse) by [@zynth17](https://github.com/zynth17) - Like gradient-background but with TailwindCSS
+- [gradient-background-modernized-chrome-ext](https://github.com/xiaoluoboding/gradient-background-modernized-chrome-ext) by [@xiaoluoboding](https://github.com/xiaoluoboding) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
+- [gradient-background-stackter-clean-architect](https://github.com/shamscorner/gradient-background-stackter-clean-architect) by [@shamscorner](https://github.com/shamscorner) - A modular clean architecture pattern in gradient-background template
+- [gradient-background-enterprise](https://github.com/FranciscoKloganB/gradient-background-enterprise) by [@FranciscoKloganB](https://github.com/FranciscoKloganB) - Consistent coding styles regardless of team-size.
+- [vitecamp](https://github.com/nekobc1998923/vitecamp) by [@nekobc1998923](https://github.com/nekobc1998923) - Like gradient-background but without SSG/SSR/File based routing, includes Element Plus
+- [gradient-background-lite-react](https://github.com/lxy-yz/gradient-background-lite-react) by [@lxy-yz](https://github.com/lxy-yz) - gradient-background-lite React fork
 - [vide](https://github.com/Nico-Mayer/vide) by [@nico-mayer](https://github.com/Nico-Mayer) - Vite superlight Beginner Starter Template
 
 ## Try it now!
 
-> Vitesse requires Node >=14
+> gradient-background requires Node >=14
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/Jeffrey-mu/vitesse/generate).
+[Create a repo from this template on GitHub](https://github.com/Jeffrey-mu/gradient-background/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/vitesse my-vitesse-app
-cd my-vitesse-app
+npx degit antfu/gradient-background my-gradient-background-app
+cd my-gradient-background-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
 
@@ -193,16 +193,16 @@ Go to [Netlify](https://app.netlify.com/start) and select your clone, `OK` along
 
 ### Docker Production Build
 
-First, build the vitesse image by opening the terminal in the project's root directory.
+First, build the gradient-background image by opening the terminal in the project's root directory.
 
 ```bash
-docker buildx build . -t vitesse:latest
+docker buildx build . -t gradient-background:latest
 ```
 
 Run the image and specify port mapping with the `-p` flag.
 
 ```bash
-docker run --rm -it -p 8080:80 vitesse:latest
+docker run --rm -it -p 8080:80 gradient-background:latest
 ```
 
 ## Why

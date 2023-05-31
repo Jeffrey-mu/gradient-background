@@ -4,7 +4,7 @@ import { type UserModule } from '~/types'
 // Import i18n resources
 // https://vitejs.dev/guide/features.html#glob-import
 //
-// Don't need this? Try vitesse-lite: https://github.com/Jeffrey-mu/vitesse-lite
+// Don't need this? Try gradient-background-lite: https://github.com/Jeffrey-mu/gradient-background-lite
 const messages = Object.fromEntries(
   Object.entries(
     import.meta.glob<{ default: any }>('../../locales/*.y(a)?ml', { eager: true }))

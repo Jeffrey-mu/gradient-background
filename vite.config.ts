@@ -69,7 +69,7 @@ export default defineConfig({
     Unocss(),
 
     // https://github.com/antfu/vite-plugin-vue-markdown
-    // Don't need this? Try vitesse-lite: https://github.com/Jeffrey-mu/vitesse-lite
+    // Don't need this? Try gradient-background-lite: https://github.com/Jeffrey-mu/gradient-background-lite
     Markdown({
       wrapperClasses: markdownWrapperClasses,
       headEnabled: true,
@@ -91,8 +91,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Vitesse',
-        short_name: 'Vitesse',
+        name: 'gradient-background',
+        short_name: 'gradient-background',
         theme_color: '#ffffff',
         icons: [
           {
